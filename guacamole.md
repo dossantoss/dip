@@ -4,7 +4,4 @@ Ingredients:
 - 2 tsp salt
 
 Instructions:
-- cut 
-and 
-mash 
-avocados
+- cut and mash avocados
